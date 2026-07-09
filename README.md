@@ -9,7 +9,6 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 - 🔭 Currently owning the full Odoo implementation at **Nefty Gida**, end to end
 - 🧩 Extend core Odoo modules and integrate third-party systems **without breaking upgrade paths**
 - ⚙️ Turned manual processes into automation: Excel import wizards, QWeb reports, FIFO inventory valuation
-- 🗂 Digitized paper- and email-based operations with document management workflows in Odoo
 
 ### 🛠 Tech Stack
 
@@ -34,6 +33,13 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 
 <img src="https://streak-stats.demolab.com?user=DunyaGG00&ring=714B67&fire=714B67&currStreakLabel=714B67&hide_border=true" alt="Contribution Streak" height="165" />
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DunyaGG00/DunyaGG00/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DunyaGG00/DunyaGG00/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
 ### 📫 Contact
 
 <p>
@@ -43,3 +49,5 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 ---
 
 <div align="center"><sub>⚡ Off the keyboard: Formula 1 — Sebastian Vettel, forever. 🏎</sub></div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=110&section=footer" width="100%" alt="" />
