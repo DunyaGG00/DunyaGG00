@@ -7,9 +7,9 @@
 I build production Odoo customizations across **versions 15–19, Enterprise & Community** — for manufacturing, food, import/trade and education. I own the full cycle: technical analysis, development, go-live and support.
 
 - 🔭 Currently owning the full Odoo implementation at **Nefty Gida**, end to end
-- 🧩 Previously delivered custom ERP solutions for concurrent clients at **Rasard Teknoloji**
+- 🧩 Extend core Odoo modules and integrate third-party systems **without breaking upgrade paths**
+- ⚙️ Turned manual processes into automation: Excel import wizards, QWeb reports, FIFO inventory valuation
 - 🎓 Started with Odoo by building my university's ERP while studying Computer Engineering
-- 🌍 Open to relocation — **Dubai, UAE**
 
 ### 🛠 Tech Stack
 
