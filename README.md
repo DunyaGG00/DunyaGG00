@@ -52,4 +52,4 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 
 <div align="center"><sub>⚡ Off the keyboard: Formula 1 — Sebastian Vettel, forever. 🏎</sub></div>
 
-<img src="https://raw.githubusercontent.com/DunyaGG00/DunyaGG00/main/assets/f1.svg?v=3" width="100%" alt="F1 car animation" />
+<img src="https://raw.githubusercontent.com/DunyaGG00/DunyaGG00/main/assets/f1.svg?v=4" width="100%" alt="F1 car animation" />
