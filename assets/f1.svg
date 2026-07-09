@@ -35,7 +35,7 @@
     }
     .spokes { animation: spin .3s linear infinite; transform-box: fill-box; transform-origin: center; }
     @keyframes spin { to { transform: rotate(360deg); } }
-    .track { stroke-dasharray: 40 30; animation: dash .8s linear infinite; }
+    .track { stroke-dasharray: 35 35; animation: dash .8s linear infinite; }
     @keyframes dash { to { stroke-dashoffset: -70; } }
     .flame { animation: flick .18s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: right center; }
     @keyframes flick { from { opacity: .95; transform: scaleX(1); } to { opacity: .5; transform: scaleX(.55); } }
@@ -49,9 +49,9 @@
     .s2 { animation-delay: .12s; } .s3 { animation-delay: .25s; } .s4 { animation-delay: .38s; }
   </style>
 
-  <!-- kerb: red/white alternating strip -->
-  <line class="track" x1="0" y1="140" x2="1000" y2="140" stroke="#c9c9c9" stroke-width="6"/>
-  <line class="track" x1="0" y1="140" x2="1000" y2="140" stroke="#e10600" stroke-width="6" stroke-dashoffset="35" opacity=".85"/>
+  <!-- kerb: solid red base, animated white dashes on top -->
+  <line x1="0" y1="140" x2="1000" y2="140" stroke="#e10600" stroke-width="6" opacity=".9"/>
+  <line class="track" x1="0" y1="140" x2="1000" y2="140" stroke="#fafafa" stroke-width="6"/>
 
   <g class="car">
     <!-- ground shadow -->
