@@ -9,7 +9,7 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 - 🔭 Currently owning the full Odoo implementation at **Nefty Gida**, end to end
 - 🧩 Extend core Odoo modules and integrate third-party systems **without breaking upgrade paths**
 - ⚙️ Turned manual processes into automation: Excel import wizards, QWeb reports, FIFO inventory valuation
-- 🎓 Started with Odoo by building my university's ERP while studying Computer Engineering
+- 🗂 Digitized paper- and email-based operations with document management workflows in Odoo
 
 ### 🛠 Tech Stack
 
