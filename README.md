@@ -26,12 +26,14 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DunyaGG00&theme=default" alt="GitHub Stats" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DunyaGG00&theme=default" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=DunyaGG00&ring=714B67&fire=714B67&currStreakLabel=714B67&hide_border=true" alt="Contribution Streak" height="165" />
+</p>
 
 <div align="center">
 <picture>
