@@ -52,4 +52,4 @@ I build production Odoo customizations across **versions 15–19, Enterprise & C
 
 <div align="center"><sub>⚡ Off the keyboard: Formula 1 — Sebastian Vettel, forever. 🏎</sub></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=110&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DunyaGG00/DunyaGG00/main/assets/f1.svg" width="100%" alt="F1 car animation" />

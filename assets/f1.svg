@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="100%">
+  <style>
+    .car { animation: drive 7s linear infinite; }
+    @keyframes drive {
+      from { transform: translateX(-260px); }
+      to   { transform: translateX(1260px); }
+    }
+    .wheel { animation: spin .35s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .track { stroke-dasharray: 34 26; animation: dash .9s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -60; } }
+  </style>
+
+  <!-- track -->
+  <line class="track" x1="0" y1="124" x2="1000" y2="124" stroke="#9e9e9e" stroke-width="4" opacity=".6"/>
+
+  <g class="car">
+    <!-- speed lines -->
+    <g stroke="#b89ab0" stroke-width="3" stroke-linecap="round" opacity=".7">
+      <line x1="-34" y1="80" x2="6" y2="80"/>
+      <line x1="-50" y1="92" x2="-4" y2="92"/>
+      <line x1="-28" y1="103" x2="2" y2="103"/>
+    </g>
+    <!-- rear wing -->
+    <rect x="2" y="58" width="28" height="9" rx="2" fill="#3d2938"/>
+    <rect x="12" y="67" width="6" height="20" fill="#3d2938"/>
+    <!-- body -->
+    <path d="M16 88 Q42 76 80 74 L152 80 Q188 84 200 98 L200 103 Q152 110 98 108 L32 101 Q16 96 16 88 Z" fill="#714B67"/>
+    <!-- halo -->
+    <path d="M86 74 Q100 58 118 74" fill="none" stroke="#3d2938" stroke-width="5" stroke-linecap="round"/>
+    <!-- front wing -->
+    <rect x="192" y="102" width="32" height="6" rx="2" fill="#3d2938"/>
+    <!-- wheels -->
+    <g class="wheel">
+      <circle cx="50" cy="104" r="17" fill="#1e1e1e"/>
+      <circle cx="50" cy="104" r="7" fill="#8a8a8a"/>
+      <line x1="50" y1="96" x2="50" y2="112" stroke="#d0d0d0" stroke-width="2.5"/>
+    </g>
+    <g class="wheel">
+      <circle cx="164" cy="106" r="15" fill="#1e1e1e"/>
+      <circle cx="164" cy="106" r="6" fill="#8a8a8a"/>
+      <line x1="164" y1="99" x2="164" y2="113" stroke="#d0d0d0" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
