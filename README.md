@@ -6,10 +6,6 @@
 
 I build production Odoo customizations across **versions 15–19, Enterprise & Community** — for manufacturing, food, import/trade and education. I own the full cycle: technical analysis, development, go-live and support.
 
-- 🔭 Currently owning the full Odoo implementation at **Nefty Gida**, end to end
-- 🧩 Extend core Odoo modules and integrate third-party systems **without breaking upgrade paths**
-- ⚙️ Turned manual processes into automation: Excel import wizards, QWeb reports, FIFO inventory valuation
-
 ### 🛠 Tech Stack
 
 <p>
